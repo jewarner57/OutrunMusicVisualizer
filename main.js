@@ -236,10 +236,9 @@ let audio
 let visualizer = 'vapor-1'
 let animationRef
 
-let currentlyPlaying = { name: "Nomad City - Phaserland", source: "./music/nomad-city.mp3" }
+let currentlyPlaying = { name: "Vis Test", source: "./music/vis_test.mp3" }
 const musicPlaylist = [
-  { name: "Socially Distanced - Highway Superstar", source: "./music/socially-distanced.mp3" },
-  { name: "Seven Nation Army - The White Stripes", source: "./music/seven-nation.mp3"},
+  { name: "Log Sine Sweep", source: "./music/log-sine-sweep.wav" },
 ]
 
 updatePlaylist()
