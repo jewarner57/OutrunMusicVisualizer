@@ -236,9 +236,9 @@ let audio
 let visualizer = 'vapor-1'
 let animationRef
 
-let currentlyPlaying = { name: "Vis Test", source: "./music/vis_test.mp3" }
+let currentlyPlaying = { name: "Rocking the Synth Machine - Pro Sensory", source: "./music/rocking-the-synth-machine.mp3" }
 const musicPlaylist = [
-  { name: "Log Sine Sweep", source: "./music/log-sine-sweep.wav" },
+  { name: "Synth Wave April 3 2022 - Pro Sensory", source: "./music/synth-wave-april.mp3" },
 ]
 
 updatePlaylist()
